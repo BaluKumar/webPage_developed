@@ -14,5 +14,5 @@ function link_page() {
 function ImageChange() {
     // have to check how to change backgroundimge using same method 
     //it's used to change only attribute value 
-    document.getElementById("img2").src="alternative.PNG";
+    document.getElementById("img2").src="alternative.png";
 }
